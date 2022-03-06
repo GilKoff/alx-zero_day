@@ -1,1 +1,2 @@
-Project up todate
+#!/bin/bash
+git pull
